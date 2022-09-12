@@ -18,3 +18,5 @@ Contact: hua.jing\at\stud.uni-regensburg.de
 
 ### Skills
 - Language: Chinese(Native), English(C1), German(A1).
+
+<! Markdown usage inspired by @vvveracruz/markdown-cv !>
