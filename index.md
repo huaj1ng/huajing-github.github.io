@@ -6,7 +6,7 @@ layout: cv
 # Jing, Hua
 _Master student of mathematics in Regensburg University._
 
-contact: hua.jing*at*stud.uni-regensburg.de 
+Contact: hua.jing\at\stud.uni-regensburg.de
 
 ### Education
 
